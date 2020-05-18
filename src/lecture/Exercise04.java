@@ -10,7 +10,7 @@ public class Exercise04 {
 		System.out.println(pencilsPerSudent);
 		
 		int pencilsLeft = pencils%students;
-		System.out.println(pencilsLeft);
+		System.out.println(pencilsLeft+"추가");
 	}
 
 }
