@@ -11,6 +11,7 @@ public class d {
 			return a;
 		else {
 			return GCD(b, a%b);
+		
 		}
 	}
 
