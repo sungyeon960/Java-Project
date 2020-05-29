@@ -30,7 +30,7 @@ public class Customer extends BankAccount {
 	}
 
 	public void addAccount(BankAccount account) {
-		accounts[numberOfAccounts]=account;
+		accounts[numberOfAccounts]=acco	`-----------------------------unt;
 		numberOfAccounts++;
 	}
 
