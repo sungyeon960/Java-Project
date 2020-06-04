@@ -26,7 +26,6 @@ public class PrintAnnotationExample {
 				try {
 					method.invoke(new Service());
 				} catch (IllegalAccessException | IllegalArgumentException | InvocationTargetException e) {
-					// TODO Auto-generated catch block
 					e.printStackTrace();
 				}
 			}
